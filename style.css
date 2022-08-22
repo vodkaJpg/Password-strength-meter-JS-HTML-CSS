@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(45deg, rgb(224, 210, 210), rgb(245, 151, 151));
+  height: 100vh;
+  box-sizing: border-box;
+  color: aliceblue;
+ padding: 0;
+ overflow: hidden;
+ margin: 0;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.PasswordWrapper{
+  display: flex;
+  flex-direction: column;
+}
